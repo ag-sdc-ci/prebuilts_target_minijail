@@ -1,0 +1,28 @@
+{
+	"provideLibs": [	
+		    "libdummy_binary_libminijail-generated.a-x86_64-v2.so",
+		    "libdummy_binary_libminijail-generated.a.so",
+		    "libdummy_binary_libminijail-x86_64-v2.so.so",
+		    "libdummy_binary_libminijail.a-x86_64-v2.so",
+		    "libdummy_binary_libminijail.a.so",
+		    "libdummy_binary_libminijail.so.so",
+		    "libdummy_binary_minijail0-x86_64-v2.so",
+		    "libdummy_binary_minijail0.so",
+		    "libdummy_ext_minijail-x86_64-v2.so",
+		    "libdummy_ext_minijail.so",
+		    "libdummy_headers_ext_minijail-x86_64-v2.so",
+		    "libdummy_headers_ext_minijail.so",
+		    "libdummy_shared_minijail-x86_64-v2.so",
+		    "libdummy_shared_minijail.so",
+		    "libminijail-x86_64-v2.so",
+		    "libminijail.so"
+	],
+	"requireLibs": [	
+		    "libc++_shared.so",
+		    "libc.so",
+		    "libcap.so.2",
+		    "libdl.so",
+		    "libm.so"
+	],
+	"visible": true
+}
